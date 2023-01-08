@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey! I am Anna.
 
+Welcome to my page!
+
+I am a Flutter and FlutterFlow developer.
 <!--
 **chrombio/chrombio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
