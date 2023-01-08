@@ -24,10 +24,10 @@ I am a Flutter and FlutterFlow developer.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/chrombio/">
-    <img src="https://user-images.githubusercontent.com/107339701/211190377-50f3582e-3c2a-4b7e-96ae-a9e3c63fedee.svg"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/chrombio2001">
-    <img src="https://user-images.githubusercontent.com/107339701/211190387-9faea632-249e-4671-9682-51255a0d8cd3.svg"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://t.me/chrombio">
     <img src="https://user-images.githubusercontent.com/107339701/211190384-47ceebb0-7f59-411b-a761-9a6ab4d4edf7.svg"/>
