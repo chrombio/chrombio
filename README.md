@@ -12,7 +12,11 @@ I am a Flutter and FlutterFlow developer.
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,firebase,linux,py,r,tensorflow,vscode,androidstudio&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,figma,firebase,linux,py,r,tensorflow,vscode,androidstudio&perline=5" />
+  </a>
+</p>
 
 
 ## Where to find me
