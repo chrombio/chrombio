@@ -30,7 +30,7 @@ I am a Flutter and FlutterFlow developer.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://t.me/chrombio">
-    <img src="https://user-images.githubusercontent.com/107339701/211190384-47ceebb0-7f59-411b-a761-9a6ab4d4edf7.svg"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
