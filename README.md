@@ -14,7 +14,7 @@ I am a Flutter and FlutterFlow developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,figma,firebase,linux,py,r,tensorflow,vscode,androidstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,figma,firebase,docker,swagger,git,linux,py,r,tensorflow,vscode,androidstudio&perline=5" />
   </a>
 </p>
 
